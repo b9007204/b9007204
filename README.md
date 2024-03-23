@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @b9007204 (Josh)
-- 👀 I’m interested in Mobile Applications 
 - 🌱 I’m currently learning Java, C#, C++, SQL.. The list goes on
 - 💞️ I’m looking to collaborate on something cool 😎
 - 📫 How to reach me Facebook, LinkedIn, or b9007204@my.shu.ac.uk.
